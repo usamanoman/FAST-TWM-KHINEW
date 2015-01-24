@@ -1,0 +1,234 @@
+[
+{
+	"Name" : "Mr. Muhammad Amjad",
+	"Education": [	"M.Sc(Industrial & Business Mathematics), Karachi University, Pakistan (2005)",
+					"BE(EE), NED UET, Karachi, Pakistan (1997)"],
+	"LinkedIn" : "",
+	"Profile" : "4113",
+	"Designation":"Assistant Professor & Incharge",
+	"Email" : "muhammad.amjad@nu.edu.pk"
+},
+{
+	"Name" : "Dr. Aziz Ur Rehman",
+	"Education": [	"PhD(Arabic ), University of Karachi , Pakistan (2008)",
+					"M.A(Islamic Studies), University of Karachi , Pakistan (2001)",
+					"B.A(Islamic Studies), University of Karachi , Pakistan (1997)"],
+	"LinkedIn" : "",
+	"Profile" : "3980",
+	"Designation":"Assistant Professor",
+	"Email" : "aziz.rehman@nu.edu.pk"
+	
+},
+{
+	"Name" : "Dr. Khusro Mian",
+	"Education": [	"Ph.D(Space & Planetary Astrophysic), University of Karachi, Pakistan",
+					"M.Sc(Maths), University of Karachi, Pakistan (1996)",
+					"B.Sc(Maths), University of Karachi, Pakistan (1991)"],
+	"LinkedIn" : "",
+	"Profile" : "",
+	"Designation":"Assistant Professor",
+	"Email" : "khusro.mian@nu.edu.pk"
+	
+},
+{
+	"Name" : "Mr. Shair-a-Yazdan",
+	"Education": [	"M.Phil(Applied Mathematics), Quaid-e-Azam University (QAU), Islamabad , Pakistan (2005)",
+					"M.Sc(Applied Mathematics), University of Karachi, Pakistan (2002)",
+					"B.Sc (Hons)(Applied Mathematics), University of Karachi, Pakistan (2001)",
+					"DCS(Computer Science), Petroman Karachi, Pakistan (2000)"],
+	"LinkedIn" : "",
+	"Profile" : "9081",
+	"Designation":"Assistant Professor",
+	"Email" : "yazdan@nu.edu.pk"
+	
+},
+{
+	"Name" : "Mr. Abdul Waheed Haris",
+	"Education": [	"M.A(English Linguistics), University of Karachi, Pakistan (2006)",
+					"M.A(English Literature), University of Karachi, Pakistan (2005)"],
+	"LinkedIn" : "",
+	"Profile" : "4116",
+	"Designation":"Lecturer",
+	"Email" : "waheed.haris@nu.edu.pk"
+	
+},
+{
+	"Name" : "Mr. Fahad Riaz",
+	"Education": [	"M.Sc(Mathematics), Karachi University , Pakistan (2007)",
+					"B.Sc (Hons)(Science), Karachi University , Pakistan (2006)"],
+	"LinkedIn" : "",
+	"Profile" : "4563",
+	"Designation":"Lecturer",
+	"Email" : "fahad.riaz@nu.edu.pk"
+	
+},
+{
+	"Name" : "Ms Faqiha Sultan",
+	"Education": [	"M.Sc(Mathematics), University of Karachi, Pakistan (2012)",
+					"B.Sc (Hons)(Mathematics), University of Karachi, Pakistan (2011)"],
+	"LinkedIn" : "",
+	"Profile" : "9125",
+	"Designation":"Lecturer",
+	"Email" : "faqiha.sultan@nu.edu.pk"
+	
+},
+{
+	"Name" : "Ms. Fareeha Sultan",
+	"Education": [	"M.Sc(Maths), University of Karachi, Pakistan (2012)",
+					"B.Sc (Hons)(Maths), University of Karachi, Pakistan (2011)"],
+	"LinkedIn" : "",
+	"Profile" : "9248",
+	"Designation":"Lecturer",
+	"Email" : "fareeha.sultan@nu.edu.pk"
+	
+},
+{
+	"Name" : "Mr. Ibrahim Gul",
+	"Education": [	"M.A(English Literature), University of Karachi, Pakistan (2009)",
+					"M.A(English Linguistics), University of Karachi, Pakistan (2008)",
+					"B.A (Hons)(-), University of Karachi, Pakistan (2007)"],
+	"LinkedIn" : "",
+	"Profile" : "4707",
+	"Designation":"Lecturer",
+	"Email" : "ibrahim.gul@nu.edu.pk"
+	
+},
+{
+	"Name" : "Mr. Ibrahim Shamsi",
+	"Education": [	"M.Sc(Statistics), University of Karachi , Pakistan (2004)",
+					"B.Sc (Hons)(Maths, Physics, Statistics), University of Karachi , Pakistan (2003)"],
+	"LinkedIn" : "",
+	"Profile" : "3860",
+	"Designation":"Lecturer",
+	"Email" : "ibrahim.shamsi@nu.edu.pk"
+	
+},
+{
+	"Name" : "Mr. Iftikhar Ahmed",
+	"Education": [	"M.Sc(Applied Mathematics), University of Karachi, Pakistan (2007)",
+					"B.Sc(Science), University of Karachi, Pakistan (2005)"],
+	"LinkedIn" : "",
+	"Profile" : "9072",
+	"Designation":"Lecturer",
+	"Email" : "iftikhar.ahmed@nu.edu.pk"
+	
+},
+{
+	"Name" : "Ms. Ingila Rahim",
+	"Education": [	"M.Phil(Mathematics), FUUAST, Pakistan (2009)",
+					"M.Sc(Mathematics), FUUAST, Pakistan (2008)"],
+	"LinkedIn" : "",
+	"Profile" : "9040",
+	"Designation":"Lecturer",
+	"Email" : "ingila.rahim@nu.edu.pk"
+	
+},
+{
+	"Name" : "Mr Muhammad Adeel",
+	"Education": [	"M.Sc(Applied Physics), University of Karachi, Pakistan (2006)",
+					"B.Sc(Physics, Maths), University of Karachi, Pakistan (2004)"],
+	"LinkedIn" : "",
+	"Profile" : "9124",
+	"Designation":"Lecturer",
+	"Email" : "m.adeel@nu.edu.pk"
+	
+},
+{
+	"Name" : "Mr. Muhammad Shahzad Shaikh",
+	"Education": [	"M.A(Islamic Studies), University of Karachi, Pakistan (2005)"],
+	"LinkedIn" : "",
+	"Profile" : "4868",
+	"Designation":"Lecturer",
+	"Email" : "shahzad.shaikh@nu.edu.pk"
+	
+},
+{
+	"Name" : "Ms. Nazia Imam",
+	"Education": [	"M.A(English Literature), University of Karachi, Pakistan (2003)"],
+	"LinkedIn" : "",
+	"Profile" : "4117",
+	"Designation":"Lecturer",
+	"Email" : "nazia.imam@nu.edu.pk"
+	
+},
+{
+	"Name" : "Ms. Rabia Tabassum",
+	"Education": [	"M.Sc(Physics), University of Karachi , Pakistan (2002)",
+					"B.Sc (Hons)(Physics, Math, Statistics), University of Karachi, Pakistan (1999)"],
+	"LinkedIn" : "",
+	"Profile" : "3861",
+	"Designation":"Lecturer",
+	"Email" : "rabia.tabassum@nu.edu.pk"
+	
+},
+{
+	"Name" : "Ms. Sameera Sultan",
+	"Education": [	"M.A(English Linguistics), University of Karachi, Pakistan (2005)",
+					"B.A (Hons)(English Literature), University of Karachi, Pakistan (2004)"],
+	"LinkedIn" : "",
+	"Profile" : "4541",
+	"Designation":"Lecturer",
+	"Email" : "sameera.sultan@nu.edu.pk"
+	
+},
+{
+	"Name" : "Mr. Saqif Rafique Ansari",
+	"Education": [	"English Linguistics, University of Karachi , Pakistan (2009)",
+					"M.A(English), University of Sindh , Pakistan (2002)",
+					"B.A(English), University of Sindh , Pakistan (2000)"],
+	"LinkedIn" : "",
+	"Profile" : "4246",
+	"Designation":"Lecturer",
+	"Email" : "m.adeel@nu.edu.pk"
+	
+},
+{
+	"Name" : "Ms. Shahnaz Feroz",
+	"Education": [	"B.S(Mathematics), University of Karachi, Pakistan (2010)"],
+	"LinkedIn" : "",
+	"Profile" : "4895",
+	"Designation":"Lecturer",
+	"Email" : "shahnaz.rashid@nu.edu.pk"
+	
+},
+{
+	"Name" : "Ms. Sumara Rashid",
+	"Education": [	"M.A(Psychology), Sindh University, Pakistan (1999)",
+					"B.A(Arts), Governmentcollege for women Khanewal, Pakistan (1996)"],
+	"LinkedIn" : "",
+	"Profile" : "9074",
+	"Designation":"Lecturer",
+	"Email" : "sumara.rashid@nu.edu.pk"
+	
+},
+{
+	"Name" : "Mr. Syed Farhan Shaukat",
+	"Education": [	"M.A(English), University of Karachi, Pakistan (2011)",
+					"B.A(Mass Communication, IR, Urdu), University of Karachi, Pakistan (2007)"],
+	"LinkedIn" : "",
+	"Profile" : "9073",
+	"Designation":"Lecturer",
+	"Email" : "farhan.shaukat@nu.edu.pk"
+	
+},
+{
+	"Name" : "Ms. Wajiha Arif Khan",
+	"Education": [	"M.A(Linguistics), University of Karachi, Pakistan (2012)",
+					"B.A (Hons)(English), University of Karachi, Pakistan (2011)"],
+	"LinkedIn" : "",
+	"Profile" : "4897",
+	"Designation":"Lecturer",
+	"Email" : "wajiha.arif@nu.edu.pk"
+	
+},
+{
+	"Name" : "Mr. Waseem Uddin",
+	"Education": [	"M.A(English Linguistics), University of Karachi, Pakistan (2009)",
+					"M.A(English Literature), University of Karachi, Pakistan (2007)"],
+	"LinkedIn" : "",
+	"Profile" : "4869",
+	"Designation":"Lecturer",
+	"Email" : "waseem.uddin@nu.edu.pk"
+	
+}
+]

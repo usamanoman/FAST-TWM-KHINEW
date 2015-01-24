@@ -1,0 +1,401 @@
+[
+{
+	"Name" : "Dr. Zubair Ahmed Sheikh",
+	"Education": [	"PhD(Computer Science), Polytechnic University, New York, United States (1994)",
+					"M.S(Computer Science), Polytechnic University, New York, United States (1991)",
+					"B.E(Computer System Engineering), Mehran UET, Jamshoro, Pakistan (1989)"],
+	"LinkedIn" : "",
+	"Profile" : "2002",
+	"Designation":"Director and Professor",
+	"Email" : "zubair.shaikh@nu.edu.pk"
+},
+{
+	"Name" : "Dr. Jawwad Shamsi",
+	"Education": [	"PhD(Computer Science), Wayne State University , United States (2009)",
+					"M.S(Computer System), University of Michigan , United States (2002)",
+					"B.E(Electrical), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (1998)"],
+	"LinkedIn" : "",
+	"Profile" : "4433",
+	"Designation":"Head of Department",
+	"Email" : "jawwad.shamsi@nu.edu.pk"
+	
+},
+{
+	"Name" : "Dr. Zafar Nasir",
+	"Education": [	"PGAD(Computer Science), University of Colorado, United States (1991)",
+					"M.Sc(Math), University of Karachi, Pakistan (1972)",
+					"B.Sc(Maths), University of Karachi, Pakistan (1970)"],
+	"LinkedIn" : "",
+	"Profile" : "2006",
+	"Designation":"Teaching Fellow",
+	"Email" : "zafar.nasir@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Ms. Atika Burni",
+	"Education": [	"MBA(Management Information System), Hamdard University, Pakistan (2000)",
+					"B.C.S(Computer Science), University of Karachi, Pakistan (1996)"],
+	"LinkedIn" : "",
+	"Profile" : "3486",
+	"Designation":"Assistant Professor",
+	"Email" : "atika.mustafa@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Mr. Bilal Hayat Butt",
+	"Education": [	"M.S(Computer Science), LUMS, Pakistan (2011)",
+					"B.S(Computer Science), NUCES FAST, Pakistan (2006)"],
+	"LinkedIn" : "",
+	"Profile" : "9076",
+	"Designation":"Assistant Professor",
+	"Email" : "bilal.hayat@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Mr. Faraz Idris Khan",
+	"Education": [	"M.S(Computer Engineering), Kyung Hee University, Korea (2008)",
+					"BIT(IT), NUST, Islamabad, Pakistan (2005)"],
+	"LinkedIn" : "",
+	"Profile" : "male",
+	"Designation":"Assistant Professor",
+	"Email" : "faraz.idris@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Mr. Farrukh Hasan Syed",
+	"Education": [	"M.S(Computer Science), IBA Karachi, Pakistan (2011)",
+					"M.A(English Literature), University of Karachi (External Candidate), Pakistan (2009)",
+					"B.S(Computer Science), University of Karachi, Pakistan (2005)"],
+	"LinkedIn" : "",
+	"Profile" : "9261",
+	"Designation":"Assistant Professor",
+	"Email" : "farrukh.hassan@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Dr. Furqan Muhammad Khan",
+	"Education": [	"PhD(Computer Science), University of Southern, California, United States (2013)",
+					"M.S(Computer Science), University of Southern, California, United States (2009)",
+					"B.E(Computer & Information Systems Engineering), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (2005)"],
+	"LinkedIn" : "",
+	"Profile" : "9215",
+	"Designation":"Assistant Professor",
+	"Email" : "furqan.khan@nu.edu.pk"
+
+	
+},
+{
+	"Name" : "Mr. Imran Zafar",
+	"Education": [	"M.Sc(Information Networking), Carnegie Mellon University, United States (2006)",
+					"B.Sc(Electronics), GIKI, Pakistan (2002)"],
+	"LinkedIn" : "",
+	"Profile" : "male",
+	"Designation":"Assistant Professor",
+	"Email" : "imran.zafar@nu.edu.pk"
+	
+
+},
+{
+	"Name" : "Mr. M. Kashif Khan",
+	"Education": [	"M.S(CS), MAJU, Pakistan (2010)",
+					"M.C.S(CS), Karachi University, Pakistan (2002)",
+					"B.E(Mechanical Engineering), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (1999)"],
+	"LinkedIn" : "",
+	"Profile" : "4872",
+	"Designation":"Assistant Professor",
+	"Email" : "kashif.khan@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Mr. Mohammad Rafi",
+	"Education": [	"M.S, SZABIST, Pakistan (2007)",
+					"M.C.S(C.S), University of Karachi, Pakistan (2000)",
+					"B.C.S(C.S), University of Karachi, Pakistan (1996)"],
+	"LinkedIn" : "",
+	"Profile" : "2008",
+	"Designation":"Assistant Professor",
+	"Email" : "muhammad.rafi@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Mr. Muhammad Hussain Mughal",
+	"Education": [	"M.S(Computer Science), FAST-NUCES, Pakistan (2010)",
+					"B.E(SW), Mehran University of Engineering & Technology, Pakistan (2007)"],
+	"LinkedIn" : "",
+	"Profile" : "9148",
+	"Designation":"Assistant Professor",
+	"Email" : "hussain.mughal@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Mr. Murad Ali",
+	"Education": [	"M.S(Computer Science & IT), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (2008)",
+					"B.S(Computer Science & IT), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (2005)"],
+	"LinkedIn" : "",
+	"Profile" : "4785",
+	"Designation":"Assistant Professor",
+	"Email" : "ali.murad@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Mr. Nauman Atique",
+	"Education": [	"M.S(Computer Networks & Communication), Hamdard University, Karachi, Pakistan (2008)",
+					"B.S(Computer Science), Shah Abdul Latif University, Khairpur, Pakistan (2002)"],
+	"LinkedIn" : "",
+	"Profile" : "4871",
+	"Designation":"Assistant Professor",
+	"Email" : "nauman.atique@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Mr. Nouman Durrani",
+	"Education": [	"M.S(Computer Networks & Communication), Hamdard University, Karachi, Pakistan (2007)",
+					"M.C.S(Computer Science), NWFP Agriculture University Peshawar, Pakistan (2005)",
+					"B.Sc(Science), University of Peshawar, Pakistan (2002)"],
+	"LinkedIn" : "",
+	"Profile" : "4662",
+	"Designation":"Assistant Professor",
+	"Email" : "muhammad.nouman@nu.edu.pk"
+	
+
+},
+{
+	"Name" : "Mr. Nadeem Kafi Khan",
+	"Education": [	"M.S(Computer Networks & Communication), Hamdard University , Pakistan (2007)",
+					"B.E(Computer System), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (1990)"],
+	"LinkedIn" : "",
+	"Profile" : "4255",
+	"Designation":"Assistant Professor",
+	"Email" : "nadeem.kafi@nu.edu.pk "
+	
+}
+,{
+	"Name" : "Dr. Sufian Hameed",
+	"Education": [	"PhD(Info Security), RWTH-Aachen, Germany (2012)",
+					"M.Sc(Media Information), RWTH-Aachen, Germany (2008)",
+					"B.S(Computer Science), Muhammad Ali Jinnah University, Pakistan (2005)"],
+	"LinkedIn" : "",
+	"Profile" : "9065",
+	"Designation":"Assistant Professor",
+	"Email" : "sufian.hameed@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Dr. Syed Tahir Qasim",
+	"Education": [	"PhD(Computer Science), Univeristy DVD, France (2012)",
+					"PhD(Image & Signal Processing), Universite d Evry Val d Essonne, France (2011)",
+					"M.S(Virtual Reality), Universite d Evry Val d Essonne, France (2007)",
+					"M.S(Computer Science), MAJU, Pakistan (2006)"],
+	"LinkedIn" : "",
+	"Profile" : "4926",
+	"Designation":"Assistant Professor",
+	"Email" : "syed.tahir@nu.edu.pk"
+	
+
+},
+{
+	"Name" : "Ms. Aisha Urooj",
+	"Education": [	"M.S(CS), LUMS, Pakistan (2012)",
+					"B.E(CIS), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (2008)"],
+	"LinkedIn" : "",
+	"Profile" : "9075",
+	"Designation":"Lecturer",
+	"Email" : "aisha.urroj@nu.edu.pk"
+	
+
+},
+{
+	"Name" : "Mr. Behraj Khan",
+	"Education": [	"M.S(Computer Science), FAST-NUCES, Islamabad, Pakistan",
+					"M.C.S(Computer Science), Abdul Wali Khan University, Mardan, Pakistan (2011)",
+					"B.Sc(Computer Science), University of Peshawar, Pakistan (2008)"],
+	"LinkedIn" : "",
+	"Profile" : "male",
+	"Designation":"Lecturer",
+	"Email" : "behraj.khan@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Ms. Fareha Sheikh",
+	"Education": [	"M.S(Computer Science), University of Texas at Arlington, United States (2013)",
+					"B.S(Electrical Engineering), University of Engineering & Technology, Pakistan (2009)"],
+	"LinkedIn" : "",
+	"Profile" : "female",
+	"Designation":"Lecturer",
+	"Email" : "fariha.shaikh@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Ms. Sadaf Iqbal Behlim",
+	"Education": [	"M.S(Master Of Computer Science & Information Technology),NED University of Engineering And Technology (NED UET), Karachi, Pakistan (2012)",
+					"B.S(Bachelor Of Computer Science & Information Technology), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (2009)"],
+	"LinkedIn" : "",
+	"Profile" : "9160",
+	"Designation":"Lecturer",
+	"Email" : "sadaf.iqbal@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Mr. Shahbaz Akhtar Siddqui",
+	"Education": [	"B.E(Computer System Engineering), Hamdard University, Pakistan (2005)"],
+	"LinkedIn" : "",
+	"Profile" : "4098",
+	"Designation":"Lecturer",
+	"Email" : "shahbaz.siddiqui@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Ms. Aemon Abdul Razzaque",
+	"Education": [	"B.S(Computer Science), University of Karachi, Pakistan (2008)"],
+	"LinkedIn" : "",
+	"Profile" : "9149",
+	"Designation":"Lecturer",
+	"Email" : "aemon.razzaque@nu.edu.pk"
+	
+
+}
+
+,{
+	"Name" : "Ms. Aisha Batool",
+	"Education": [	"B.S(Computer Science), FAST-NUCES, Pakistan"],
+	"LinkedIn" : "",
+	"Profile" : "female",
+	"Designation":"Instructor/ RO",
+	"Email" : "aisha.batool@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Ms. Aisha Rasheed",
+	"Education": [	"B.S(Computer Science), Jinnah University For Women, Pakistan (2011)"],
+	"LinkedIn" : "",
+	"Profile" : "9146",
+	"Designation":"Instructor/ RO",
+	"Email" : "aisha.rasheed@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Ms. Amber Yaseen Khan",
+	"Education": [	"B.E(Computer & Info Systems), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (2011)"],
+	"LinkedIn" : "",
+	"Profile" : "4904",
+	"Designation":"Instructor/ RO",
+	"Email" : "amber.khan@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Ms. Anum Fatima",
+	"Education": [	"B.C.S(Bachelor Of Computer Science & IT), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (2010)",
+					"B.C.S(Computer Science), N.E.D University, Pakistan (2010)"],
+	"LinkedIn" : "",
+	"Profile" : "9085",
+	"Designation":"Instructor/ RO",
+	"Email" : "anum.fatima@nu.edu.pk"
+	
+
+}
+
+,{
+	"Name" : "Mr. Areeb Moin",
+	"Education": [	"B.S(Computer Science), FAST-NUCES, Pakistan"],
+	"LinkedIn" : "",
+	"Profile" : "male",
+	"Designation":"Instructor/ RO",
+	"Email" : "areeb.moin@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Ms. Faiza Sattar",
+	"Education": [	"B.E(Computer System), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (2010)"],
+	"LinkedIn" : "",
+	"Profile" : "9145",
+	"Designation":"Instructor/ RO",
+	"Email" : "faiza.sattar@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Ms. Mahwish Amjad",
+	"Education": [	"B.E(Computer & Info Systems), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (2011)"],
+	"LinkedIn" : "",
+	"Profile" : "4905",
+	"Designation":"Instructor/ RO",
+	"Email" : "mehwish.amjad@nu.edu.pk"
+	
+
+}
+,{
+	"Name" : "Mr. Mirza Zaeem Baig",
+	"Education": [	"B.S(Computer Science), FAST-NUCES, Pakistan"],
+	"LinkedIn" : "",
+	"Profile" : "male",
+	"Designation":"Instructor/ RO",
+	"Email" : "mirza.zaeem@nu.edu.pk"
+	
+
+},
+{
+	"Name" : "Mr. Muhammad Nadeem",
+	"Education": [	"B.E(Software Engineering), MUET, Jamshoro, Pakistan (2012)"],
+	"LinkedIn" : "",
+	"Profile" : "male",
+	"Designation":"Instructor/ RO",
+	"Email" : "muhammad.nadeem@nu.edu.pk"
+	
+
+},{
+	"Name" : "Ms. Nadia Nasir",
+	"Education": [	"B.S(Computer Science), NED University of Engineering And Technology (NED UET), Karachi, Pakistan (2010)"],
+	"LinkedIn" : "",
+	"Profile" : "4931",
+	"Designation":"Instructor/ RO",
+	"Email" : "nadia.nasir@nu.edu.pk"
+	
+
+},{
+	"Name" : "Mr. Shoaib Raza",
+	"Education": [	"B.S(Computer Science), University of Karachi, Pakistan (2012)"],
+	"LinkedIn" : "",
+	"Profile" : "9128",
+	"Designation":"Instructor/ RO",
+	"Email" : "shoaib.raza@nu.edu.pk"
+	
+
+},{
+	"Name" : "Mr. Muhammad Saleem",
+	"Education": [	"Not Available"],
+	"LinkedIn" : "",
+	"Profile" : "male",
+	"Designation":"Department Secretary",
+	"Email" : "saleem.muhammad@nu.edu.pk"
+	
+
+},{
+	"Name" : "Mr. Adnan Ahmed Chandio",
+	"Education": [	"Not Available"],
+	"LinkedIn" : "",
+	"Profile" : "male",
+	"Designation":"Assistant",
+	"Email" : ""
+	
+
+}
+]

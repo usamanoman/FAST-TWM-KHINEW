@@ -1,0 +1,78 @@
+{
+    
+    "Research": [{
+        "title": "Computer Graphics",
+        "image" : "spotlight-image.png",
+        "members":["Ms. Atika Burney","Dr. Tahir Qasim"],
+        "details": "The Graphics and Image Processing group is concentrated on developing techniques and algorithms for fast and efficient processing of images. Two BS projects and three MS thesis are currently under progress."
+    },
+    {
+        "title": "Software Engineering",
+        "image" : "spotlight-image.png",
+        "members":["Mr. Zafar Nasir","Mr. Murad Ali"],
+        "details": "The focus of the software Engineering group is to develop techniques and methods for advanced and efficient management of Computer Software related to software and IT industry. The group has currently ten MS students and three projects at the BS level."
+    },
+    {
+        "title": "System Research and Laboratory",
+        "image" : "spotlight-image.png",
+        "members":["Dr. Jawad Shamsi","Dr. Sufian Hameed","Mr Nauman Durrani"],
+        "details": "SYSLAB – Systems Research Laboratory is inspired by development and advancements related to Distributed Systems. Specifically, the group is focused on areas of Cloud Computing, High Performance Computing, Network Security, and Mobile and Network Systems. The focus of the group is on design and implementation of efficient systems techniques related to these areas. Currently, there are two PhD. students, five MS students, and four FYP groups working on different areas of systems research."
+    },
+    {
+        "title": "Database and Machine Learning",
+        "image" : "spotlight-image.png",
+        "members":["Ms. Atika Burney","Mr. Kashif Khan","Mr. M.Rafi"],
+        "details": "Database and Machine learning deals with the fields of research like, Big Data, Data warehousing, Machine Learning, Artificial Intelligence."
+    },
+    {
+        "title": "Theoratical Computer Science",
+        "image" : "spotlight-image.png",
+        "members":["Mr. Bilal Hayat Butt","Mr. Rafi"],
+        "details": "Database and Machine learning deals with the fields of research like, algorithms, Complexity, Computational Feasibility."
+    }
+
+
+    ]
+
+    ,
+    "Publications": [{
+        "title": "Service Discovery in Mobile Ad hoc Networks Using Association Rules Mining.",
+        "image" : "spotlight-image.png",
+        "members":["Muhammad Shahab Siddiqui", "Zubair A. Shaikh", "Noman Islam" ,"Abdul Rehman Memon"],
+        "link" : "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5383123&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5383123"
+    },
+    {
+        "title": "Information Provenance for Open Distributed Collaborative System.",
+        "image" : "spotlight-image.png",
+        "members":["Syed Imran Jami"," Jemal H. Abawajy ","Zubair A. Shaikh"],
+        "link" : "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5381719&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5381719"
+    },
+    {
+        "title": "Ontology Maintenance Via MultiAgents.",
+        "image" : "spotlight-image.png",
+        "members":["Muhammad Rafi"," Hilal Qureshi ","Hasina Khatoon"],
+        "link" : "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5331625"
+    },
+    {
+        "title": "Towards the development of Human Community Ontology",
+        "image" : "spotlight-image.png",
+        "members":["Muhammad Shahab Siddiqui"," Zubair A. Shaikh "," Abdul Rahman Memon"],
+        "link" : "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5319368"
+    },
+    {
+        "title": "QoSMap: Achieving Quality and Resilience through Overlay Construction.",
+        "image" : "spotlight-image.png",
+        "members":["Jawwad Shamsi "," Monica Brockmeyer"],
+        "link" : "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5072498&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5072498"
+    },{
+        "title": "Towards the Development of Community Algorithm.",
+        "image" : "spotlight-image.png",
+        "members":["Muhammad Shahab Siddiqui", "Zubair A. Shaikh" ,"Abdul Rahman Memon"],
+        "link" : "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5077107&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5077107"
+    }
+
+
+    ]
+
+   
+}
