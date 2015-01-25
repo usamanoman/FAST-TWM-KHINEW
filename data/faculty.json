@@ -34,6 +34,19 @@
 
 }
 ,{
+	"Name" : "Professor Hasina Khatoon",
+	"Education": [	"PhD (Computer Engineering), NED UET, Karachi",
+					"MS (EE), Stanford University, USA",
+					"EDE, PII, Holland",
+					"BE (Electronics), NED UET, Karachi"],
+	"LinkedIn" : "https://pk.linkedin.com/pub/hasina-khatoon/22/486/114",
+	"Profile" : "female",
+	"Designation":"Professor",
+	"Email" : "hasina.khatoon@nu.edu.pk"
+	
+
+}
+,{
 	"Name" : "Ms. Atika Burni",
 	"Education": [	"MBA(Management Information System), Hamdard University, Pakistan (2000)",
 					"B.C.S(Computer Science), University of Karachi, Pakistan (1996)"],
